@@ -13,7 +13,7 @@ public class Stack {
         System.out.println(st.peek());
         System.out.println(st.isEmpty());
         System.out.println("the check stack is full:" + st.isFull());
-        for (int i = st.top; i >= 0; i--) { kk
+        for (int i = st.top; i >= 0; i--) {
             System.out.println(st.arr[i]);
         }
 
