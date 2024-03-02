@@ -8,7 +8,7 @@ public class Stack {
         st.push(3);
         st.push(4);
         st.push(5);
-
+       
         System.out.println("deleted top most element:" + st.pop());
         System.out.println(st.peek());
         System.out.println(st.isEmpty());
